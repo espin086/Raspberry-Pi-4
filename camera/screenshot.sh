@@ -1,1 +1,1 @@
-raspistill -v -o test.jpg
+raspistill -v -o test.jpg -vf -hf
