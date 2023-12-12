@@ -1,3 +1,8 @@
+
+
+
+
+
 def read_image_from_camera():
     pass
 
